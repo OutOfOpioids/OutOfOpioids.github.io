@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+#header {
+    background-color: #faaffa;
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+    width: 98.659%;
+}
+#description {
+    text-align: center;
+    padding: 20px;
+}
+#description li {
+    text-shadow: #000000;
+    font-weight: bold;
+    list-style: none;
+}
+#name {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#download {
+    text-align: center;
+    font: 100px;
+}
+#download a {
+    margin: 5px;
+    font-weight: bold;
+}
